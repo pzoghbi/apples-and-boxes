@@ -1,0 +1,14 @@
+﻿
+feder, kad skocis na njega, on te salje polje naprijed u istoj direkciji 
+
+krhko polje, kad skocis na njega, ono propadne ako dugo stojis
+
+trigger, kad skocis na njega, nesto se aktivira ili deaktivira
+
+nestabilno, polje koje nestaje na 1 sekundu i ponovo se stvori
+
+brojevi, kad skocis na njega smanji se broj, kad dode do 0 polje se raspadne
+
+teleport, kad skocis na njega, stvoris se na drugom kraju teleporta
+
+tajmer, kad skocis na njega, odbrojava 3 sekunde, zatim eksplodira
